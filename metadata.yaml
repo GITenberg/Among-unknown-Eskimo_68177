@@ -5,12 +5,17 @@ contributor:
     agent_name: Fleming, Archibald Lang
     gutenberg_agent_id: '54641'
     url: http://www.gutenberg.org/2009/agents/54641
+covers:
+- cover_type: archival
+  image_path: 68177-h/images/new-cover.jpg
 creator:
   author:
     agent_name: Bilby, Julian W.
     gutenberg_agent_id: '54640'
     url: http://www.gutenberg.org/2009/agents/54640
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68177#Among-unknown-Eskimo
 gutenberg_issued: '2022-05-26'
 identifiers:
   gutenberg: '68177'
